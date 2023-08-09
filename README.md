@@ -3,8 +3,8 @@
 ## 👨‍💻 About Me
 I'm a computer science graduate from the [University of Milan-Bicocca](https://www.unimib.it/) with a keen interest in artificial intelligence. Currently, I am pursuing my Master's degree in AI at the [University of Bologna](https://www.unibo.it/it). I am passionate about developing intelligent systems that can make our lives easier and more efficient.
 
-## 🔭 Looking for Work
-I am actively looking for my first work experience in the AI field. If you are looking for a dedicated and skilled AI engineer, don't hesitate to contact me.
+## 🔭 AI Developer Intern PwC Italy
+Currently I am working as an AI developer intern at PwC Italy
 
 ## 🌱 My Skills
 - Programming Languages: Python, C++, Java
